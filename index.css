@@ -267,6 +267,7 @@
         grid-template-rows: auto;
         font-family: 'Raleway', sans-serif;
         margin-bottom: 25px;
+        width: 60%;
         gap: 20px;
     }
 
