@@ -279,7 +279,7 @@
         align-items: center;
         font-family: 'Raleway' sans-serif;
         background-color: var(--brand-white);
-        width: 250px;
+        width: 300px;
         height: 200px;
         border-radius: 30px;
         padding: 0 0 5px 0;
@@ -319,7 +319,7 @@
 
     .grille img {
         display: flex;
-        width: 230px;
+        width: 290px;
         height: 120px;
         object-fit: cover;
         border-top-left-radius: 30px;
