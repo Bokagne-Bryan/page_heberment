@@ -249,8 +249,10 @@
         padding: 20px;
         border-radius: 30px;
         height: auto;
-        width: 1300px;
-        padding: 40px;
+        width: auto;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-right: 40px ;
     }
 
     .Hébergements p {
